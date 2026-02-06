@@ -1,0 +1,46 @@
+{
+    "gadgets": [
+        {
+            "gadgetName": "Portable force field unit",
+            "gadgetCost": 199.99,
+            "gadgetProcureCost": 125.99
+        },
+        {
+            "gadgetName": "Plastic lips",
+            "gadgetCost": 3.99,
+            "gadgetProcureCost": 0.99
+        },
+        {
+            "gadgetName": "Inflatable head in a cloak",
+            "gadgetCost": 59.99,
+            "gadgetProcureCost": 25.59
+        },
+        {
+            "gadgetName": "Shoe gas mask",
+            "gadgetCost": 149.99,
+            "gadgetProcureCost": 87.79
+        }
+    ],
+    "people": [
+        {
+            "name": "Barbara Feldon",
+            "quantity": [1, 0, 2, 0],
+            "shipping": 0
+        },
+        {
+            "name": "Edward Platt",
+            "quantity": [0, 5, 1, 3],
+            "shipping": 13.32
+        },
+        {
+            "name": "Bernie Kopell",
+            "quantity": [2, 3, 0, 2],
+            "shipping": 15.61
+        },
+        {
+            "name": "Robert Karvelas",
+            "quantity": [1, 1, 1, 1],
+            "shipping": 1.87
+        }
+    ]
+}
